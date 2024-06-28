@@ -3,11 +3,8 @@ Depression Detection using Twitter data
 
 1. [Project Motivation](#motivation)
 2. [Proposed Model](#proposedModel)
-2. [Dataset Construction](#dataset)
-3. [Project Phases](#phases)
-4. [Future Plan](#futureplan)
-5. [Contributors](#contributors)
-6. [Recources](#recources)
+3. [Dataset Construction](#dataset)
+4. [Recources](#recources)
 
 
 
@@ -92,15 +89,8 @@ We combined datasets from different sources to create a final, well-rounded data
 
 Although creating the dataset was time-consuming, it was crucial for developing an accurate depression detector that goes beyond mere sentiment analysis.
 
-
 ![Positive words](https://user-images.githubusercontent.com/14244685/63386084-108a0d80-c3c4-11e9-8735-77afc986cc33.png)
 ![negitive words](https://user-images.githubusercontent.com/14244685/63386087-108a0d80-c3c4-11e9-9796-588ce316ed70.png)
-
-
-
-## Future Plan<a name="futureplan"></a>
-
-- Use an external software such as liwc (http://liwc.wpengine.com/) to review the linguistic and emotional content of the tweets, and verify that the labels are correct.
 
 
 ## Resources<a name="resources"></a>
